@@ -1,6 +1,6 @@
 # LeetHub Sync
-## Welcome to the LeetHub Sync! This project aims to automate the retrieval of LeetCode submission data and organize it efficiently within a GitHub repository. 
-## The script fetches submission details, checks for duplicates, and stores new submissions in a structured format.
+Welcome to the LeetHub Sync! This project aims to automate the retrieval of LeetCode submission data and organize it efficiently within a GitHub repository. 
+The script fetches submission details, checks for duplicates, and stores new submissions in a structured format.
 
 ## Features
 
